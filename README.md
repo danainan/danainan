@@ -28,9 +28,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+- 
 - 🔋  Meditating is recharging my energy.
-- 👫 I've always been a great team player
-- 📖 I'm a fast learner and always development.<br><br>s</p>
+- 👫 I've always been a great team player.
+- 📖 I'm a fast learner and always development.
 
 ###
 
