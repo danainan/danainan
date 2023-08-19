@@ -87,6 +87,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/danainan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/danainan/danainan/output/snake.svg" alt="Snake animation" />
 
 ###
