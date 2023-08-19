@@ -88,7 +88,7 @@
 ###
 
 <div>
-  <img src="/media/github-user-contribution.svg-dark"/>
+  <img src="media/github-user-contribution-dark.svg"/>
 </div>
 
 
