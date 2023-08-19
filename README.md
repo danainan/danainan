@@ -33,7 +33,7 @@
 - 📖 I'm a fast learner and always development.
 - 🔋  Meditating is recharging my energy.
 - 📫 How to reach me **danainan.chamnanpaison@gmail.com**
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/danainan)
+- 👨‍💻 All my projects are available at my [Repositories](https://github.com/danainan?tab=repositories)
 - ⚡ my quote **Leave something for someone but don’t leave someone for something**
 
 ###
