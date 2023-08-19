@@ -87,11 +87,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" src="/media/github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" src="/media/github-user-contribution.svg" />
-  
-</picture>
+<div>
+  <img src-"/media/github-user-contribution.svg"/>
+</div>
 
 
 ###
