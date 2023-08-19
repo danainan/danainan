@@ -28,8 +28,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">- 👫 I've always been a great team player<br><br>- 📖 I'm a fast learner and always development.<br><br>s</p>
+- 🔋  Meditating is recharging my energy.
+- 👫 I've always been a great team player
+- 📖 I'm a fast learner and always development.<br><br>s</p>
 
 ###
 
