@@ -88,7 +88,7 @@
 ###
 
 <picture>
-  <img alt="github-snake" src="[github-snake.svg](https://platane.github.io/snk/)https://platane.github.io/snk/danainan" />
+  <img alt="github-snake" src="https://platane.github.io/snk/danainan.svg" />
 </picture>
 
 ###
