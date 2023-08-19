@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello 👋,I'm Danainan</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-
+<p align="left">- 👫 I've always been a great team player<br><br>- 📖 I'm a fast learner and always development.<br><br>s</p>
 
 ###
 
@@ -67,6 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -87,11 +89,12 @@
 
 ###
 
-<div>
-  <img src="media/github-user-contribution-dark.svg"/>
+<div> <img src="media/github-user-contribution-dark.svg"/></div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RuOWM1dG9wMnYxcTBnYThhajczZmQ2MjRzbTBxdXoydjE4dDg0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
-
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
 
 ###
