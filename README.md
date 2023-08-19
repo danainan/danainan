@@ -25,13 +25,16 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
-- 
-- 🔋  Meditating is recharging my energy.
+
+
 - 👫 I've always been a great team player.
 - 📖 I'm a fast learner and always development.
+- 🔋  Meditating is recharging my energy.
+- 📫 How to reach me ***danainan.chamnanpaison@gmail.com*
+- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/danainan)
+- ⚡ my quote **Leave something for someone but don’t leave someone for something**
 
 ###
 
