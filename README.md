@@ -87,11 +87,11 @@
 
 ###
 
-
-<img src="/media/github-user-contribution.svg" alt="Snake animation" />
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/media/github-user-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="/media/github-user-contribution.svg" />
-<img alt="github-snake" src="/media/github-user-contribution.svg" />
+  <img alt="github-snake" src="/media/github-user-contribution.svg" />
+</picture>
 
 
 ###
