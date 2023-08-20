@@ -21,7 +21,11 @@
 
 ###
 
-<h1 align="center">Hello 👋,I'm Danainan</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Danainan+!;&center=true&size=30">
+  </a>
+</h1>
 
 ###
 
