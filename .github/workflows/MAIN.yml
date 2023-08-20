@@ -36,7 +36,6 @@ jobs:
           
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - name: Commit files
-        
         run: | 
           git config --local user.email "danainan555@gmail.com"
           git config --local user.name "danainan"
@@ -45,6 +44,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
+          github_user_name: danainan
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
           
