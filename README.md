@@ -23,7 +23,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Danainan+!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Danainan;&center=true&size=30">
   </a>
 </h1>
 
@@ -32,7 +32,8 @@
 
 ###
 
-
+- 🎓 Bachelor's degree from <a href="https://www.wu.ac.th/"> WU.</a>
+- 💻 I love to learn new technologies and frameworks.
 - 👫 I've always been a great team player.
 - 📖 I'm a fast learner and always development.
 - 🔋  Meditating is recharging my energy.
