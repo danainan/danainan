@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/danainan/linenotify_django/assets/71175110/13db5634-90bf-4e4b-851c-13dccb56eacd"  />
+  <img height="150" src="media/pandaCode.gif"/>
 </div>
 
 ###
