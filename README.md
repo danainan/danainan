@@ -99,7 +99,6 @@
 
 ###
 
-<div> <img src="dist/github-user-contribution-dark.svg"/></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
