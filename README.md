@@ -102,8 +102,9 @@
 <div> <img src="media/github-user-contribution-dark.svg"/></div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" src="dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" src="dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img src="github-contribution-grid-snake-dark.svg" >
 </picture>
 
 ###
